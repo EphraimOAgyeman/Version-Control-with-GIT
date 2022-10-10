@@ -1,4 +1,4 @@
 <img src="git.webp">
 
 # Git
-Everything about git
+This repo contains a write up on important codes in Git
